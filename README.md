@@ -8,9 +8,9 @@ In my spare time, I like to watch movies (🎞️), series (📺), watch footbal
 
 
 ## 📫 How to reach me
-[![Linkedin: malaquiasdev](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/malaquiasdev/)](https://www.linkedin.com/in/diogo-machado-328a10ab)
-<a href = "mailto:diogomachadocmb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Instagram: malaquiasdev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogomachado_021/)
+[![Linkedin: DiogoMachado](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/diogo-machado-328a10ab)
+<a href = "mailto:diogomachadocmb@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" target="_blank"></a>
+[![Instagram: DiogoMachado](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)](https://www.instagram.com/diogomachado_021/)
 
 ## <br>💻Skills:</br>
 
