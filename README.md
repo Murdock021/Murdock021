@@ -8,7 +8,7 @@ In my spare time, I like to watch movies (🎞️), series (📺), watch footbal
 
 
 ## 📫 How to reach me
-[![Linkedin: DiogoMachado](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/diogo-machado-328a10ab)
+[![Linkedin: DiogoMachado](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](www.linkedin.com/in/DiogoMachado-DM)
 <a href = "mailto:diogomachadocmb@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" target="_blank"></a>
 [![Instagram: DiogoMachado](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)](https://www.instagram.com/diogomachado_021/)
 
