@@ -1,7 +1,7 @@
 ## Hi, My name is Diogo Machado 👋
 
 <h3> A Fullstack Developer</h3>
-My name is Diogo Machado, I'm from Brazil (🇧🇷). I am a Developer since 2022, currently studying PHP and Laravel, I have knowledge in HTML and CSS, i like to work with professionals and learn from them.
+My name is Diogo Machado, I'm from Brazil (🇧🇷). I am a Developer since 2022, currently studying PHP and Laravel, I have knowledge in JavaScript, HTML and CSS, i like to work with professionals and learn from them.
 My last project was a volunteer for 8 months at FiveM, developing and configuring the game, with .Lua and HeidiSQL
 <br></br>
 In my spare time, I like to watch movies (🎞️), series (📺), watch football (⚽️), read books (📚), listen to music (🎵)
