@@ -29,6 +29,7 @@ In my spare time, I like to watch movies (🎞️), series (📺), watch footbal
   <img align="center" alt="Ally-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Ally-Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="Ally-python" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Ally-C" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"" /> 
   <img align="center" alt="Ally-HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
   <img align="center" alt="Ally-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Ally-PHP" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
