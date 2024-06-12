@@ -185,11 +185,9 @@ In my spare time, I like to watch movies (🎞️), series (📺), watch footbal
 
 
 ## 📫 How to reach me
-<i class="devicon-linkedin-plain-wordmark colored"></i>
-[![Linkedin: DiogoMachado](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](www.linkedin.com/in/DiogoMachado-DM)
-<a href = "mailto:diogomachadocmb@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" target="_blank"></a>
-
-
+<a href="https://www.linkedin.com/in/diogomachado-dm/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>&nbsp;
+  <a href = "mailto:diogomachadocmb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>&nbsp;
+  <a href="https://instagram.com/diogomachado_021" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>&nbsp;
 
 
   
