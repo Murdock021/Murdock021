@@ -34,33 +34,22 @@ In my spare time, I like to watch movies (🎞️), series (📺), watch footbal
       <img alt="Styled Components" src="https://img.shields.io/badge/Styled--Components-000?style=for-the-badge&logo=styled-components" />
     </td>
     <td align="center">
-      <img alt="Sass" src="https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=Sass" />
-    </td>
-    <td align="center">
       <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js" />
     </td>
     <td align="center">
       <img alt="NestJS" src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=red" />
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express" />
-    </td>
     <td align="center">
       <img alt="Python" src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python" />
     </td>
-    <td align="center">
-      <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask" />
-    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-000?&style=for-the-badge&logo=FastAPI" />
     </td>
     <td align="center">
       <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-000?style=for-the-badge&logo=rabbitmq" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-000?style=for-the-badge&logo=graphql" />
     </td>
@@ -70,14 +59,14 @@ In my spare time, I like to watch movies (🎞️), series (📺), watch footbal
     <td align="center">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
     <td align="center">
       <img alt="Redis" src="https://img.shields.io/badge/Redis-000?&style=for-the-badge&logo=Redis&logoColor=red" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="Prisma" src="https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma" />
     </td>
@@ -87,14 +76,14 @@ In my spare time, I like to watch movies (🎞️), series (📺), watch footbal
     <td align="center">
       <img alt="Jest" src="https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=Jest&logoColor=red" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img alt="VSCode" src="https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" />
     </td>
     <td align="center">
       <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazonaws" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="Supertest" src="https://img.shields.io/badge/-Supertest-000?style=for-the-badge&logo=jest" />
     </td>
@@ -102,33 +91,13 @@ In my spare time, I like to watch movies (🎞️), series (📺), watch footbal
       <img alt="Git" src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git" />
     </td>
     <td align="center">
-      <img alt="EC2" src="https://img.shields.io/badge/-EC2-000?style=for-the-badge&logo=amazonaws" />
-    </td>
-    <td align="center">
       <img alt="Integration Tests" src="https://img.shields.io/badge/-Integration%20Tests-000?style=for-the-badge&logo=jest" />
-    </td>
-    <td align="center">
-      <img alt="Figma" src="https://img.shields.io/badge/-Figma-000?&style=for-the-badge&logo=figma" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img alt="GCP" src="https://img.shields.io/badge/-GCP-000?style=for-the-badge&logo=google-cloud" />
-    </td>
-    <td align="center">
-      <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-000?style=for-the-badge&logo=githubactions&logoColor=white" />
-    </td>
-    <td align="center">
-      <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=github-actions" />
-    </td>
-    <td align="center">
-      <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-000?style=for-the-badge&logo=datadog" />
-    </td>
     <td align="center">
       <img alt="Postman" src="https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="End-to-End Tests" src="https://img.shields.io/badge/-End_to_End%20Tests-000?style=for-the-badge&logo=jest" />
     </td>
@@ -136,30 +105,10 @@ In my spare time, I like to watch movies (🎞️), series (📺), watch footbal
       <img alt="Colab" src="https://img.shields.io/badge/Colab-000?style=for-the-badge&logo=googlecolab" />
     </td>
     <td align="center">
-      <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel" />
-    </td>
-    <td align="center">
-      <img alt="Render" src="https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render" />
-    </td>
-    <td align="center">
-      <img alt="ElephantSQL" src="https://img.shields.io/badge/-ElephantSQL-000?style=for-the-badge&logo=render" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify" />
-    </td>
-    <td align="center">
       <img alt="Jira Software" src="https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=Jira&logoColor=blue" />
     </td>
-     <td align="center">
-      <img alt="Unit Tests" src="https://img.shields.io/badge/-Unit%20Tests-000?style=for-the-badge&logo=jest" />
-    </td>
-     <td align="center">
-      <img alt="Canva" src="https://img.shields.io/badge/-Canva-000?&style=for-the-badge&logo=Canva" />
-    </td>
     <td align="center">
-      <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase" />
+      <img alt="Unit Tests" src="https://img.shields.io/badge/-Unit%20Tests-000?style=for-the-badge&logo=jest" />
     </td>
   </tr>
 </table>
