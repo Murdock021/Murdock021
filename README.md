@@ -113,17 +113,6 @@ In my spare time, I like to watch movies (🎞️), series (📺), watch footbal
   </tr>
 </table>
   
-## <br> 🕑 Historic:</br>
-<div>
-<br><br>
-<details>
-  <summary> <samp>GitHub Stats</summary>
-  <img height="172em" alt="Murdock's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Murdock021&count_private=true&show_icons=true&theme=rose_pine&bg_color"/>
-</details>
-    <details>
-  <summary> <samp>Most Used Languages</summary>
-  <img height="172em" alt="Murdock's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murdock021&layout=compact&langs_count=10&theme=rose_pine&bg_color&hide=python"/>
-</details>
 
 <details>
   <summary> <samp>Github Streak Stats</summary>
