@@ -114,14 +114,6 @@ In my spare time, I like to watch movies (🎞️), series (📺), watch footbal
 </table>
   
 
-<details>
-  <summary> <samp>Github Streak Stats</summary>
-  <img height="172em" alt="Murdock's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Murdock021&theme=rose_pine&bg_color&hide=python"/>
-</details>
-<br><br>
-</div>
-
-
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/diogomachado-dm/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>&nbsp;
   <a href = "mailto:diogomachadocmb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>&nbsp;
